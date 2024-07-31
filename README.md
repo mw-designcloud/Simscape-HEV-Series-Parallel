@@ -72,6 +72,6 @@ to poor power quality.  However, the voltage on the DC bus for this test shows
 other larger problems -- the battery can't supply enough voltage for this 
 situation.  This situation was the best example we could find of the spectrogram 
 pointing directly to a component on the network, so we chose to include it.  
-Follow the script DC_Power_Quality_Analysis.m to see the test case
+Follow the script DC_Power_Quality_Analysis.m to see the test case. 
 
 
